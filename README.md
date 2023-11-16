@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cryptoroule
-- 👀 I’m interested in cryptomonnaies and NFT
+- 👀 I’m interested by new technologies in the Blockchaine as cryptomonnaies and NFTs
 - 🌱 I’m currently learning about Ethereum
-- 💞️ I’m looking to collaborate on GITHUB and Binance (Blockchaine)
+- 💞️ I’m looking to collaborate on GITHUB and Binance
 - 📫 You can contact me on Tiktok,Instagram, Facebook, Youtube...My name is Cryptoroule
 
 <!---

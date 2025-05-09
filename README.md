@@ -6,7 +6,7 @@
 
 Our mission: **Make crypto education simple, accessible, and profitable for everyone.**
 
-Founded by **Hicham AMIMER**, CryptoRoule is designed to empower beginners and intermediate investors through a complete learning and earning ecosystem.
+Founded by **Hicham.A**, CryptoRoule is designed to empower beginners and intermediate investors through a complete learning and earning ecosystem.
 
 
 ## 🔑 Our Ecosystem Includes:
